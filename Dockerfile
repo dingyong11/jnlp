@@ -1,3 +1,3 @@
 FROM jenkins/jnlp-slave:alpine
 
-LABEL "maintainter"="dyong"
+LABEL maintainter="dyong"
